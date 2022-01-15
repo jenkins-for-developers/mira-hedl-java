@@ -1,2 +1,2 @@
-# david-hezky-java
-Java aplikace - David Hezky
+# mira-hedl-java
+Java aplikace - Mira Hedl
