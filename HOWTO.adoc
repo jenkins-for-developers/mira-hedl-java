@@ -1,5 +1,5 @@
 
-. Run away fast:
+. Run away slow:
 ...............................
 mvn archetype:generate -DgroupId=org.kurz -DartifactId=moje-apka  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
  cd moje-apka
